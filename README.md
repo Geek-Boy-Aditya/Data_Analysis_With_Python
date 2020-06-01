@@ -2,7 +2,7 @@
 
 ![](NP1.png)
 
-### Numpy
+## Numpy
 
 ![](/NP2.png)
 
@@ -21,3 +21,5 @@ It is the fundamental package for scientific computing with Python. It contains 
 Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data.
 
 Arbitrary data-types can be defined using Numpy which allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
+
+## Pandas
