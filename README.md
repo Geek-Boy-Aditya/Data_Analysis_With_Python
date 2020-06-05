@@ -16,7 +16,6 @@ It is the fundamental package for scientific computing with Python. It contains 
 
 3.Tools for integrating C/C++ and Fortran code
 
-
 4.Useful linear algebra, Fourier transform, and random number capabilities
 
 Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data.
